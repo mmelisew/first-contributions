@@ -26,6 +26,7 @@
 - [nomope] (https://github.com/nomope)
 - [gholi]
 - [Tony Lopez]
+- [Melisew Mengsitie]
 - [Akshay Pandit] (https://github.com/panditakshay)
 - [jpgmoreira]
 - [Jayanthi Kolli](https://gitlab.com/jayanth1007)
